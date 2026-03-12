@@ -1,6 +1,6 @@
 # autocompletion_text
 ## Исходные данные
-Исходный файл **tweets.txt** был скачан по ссылке данной в уроке
+Исходный файл **tweets.txt** был предоставлен
 * В папке "data" оставила только файлы train, val и test с расширением .csv
 <br> **файлы tweets.txt, raw_dataset.csv и dataset_processed.csv не выкладывала из-за того, что ругается GitHub на большие объемы данных**
 ### Обучение LSTM и использование предобученой модели DistilGPT
